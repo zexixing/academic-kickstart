@@ -1,11 +1,11 @@
 +++
 # Experience widget.
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+headless = false  # This file represents a page section.
+active = false  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
-title = "Experience"
+title = "Research Experience"
 subtitle = ""
 
 # Date format for experience
@@ -25,20 +25,28 @@ date_format = "Jan 2006"
   date_start = "2017-01-01"
   date_end = ""
   description = """
-  Responsibilities include:
+  Responsibilities include: 
   
   * Analysing
   * Modelling
   * Deploying
   """
+[[experience]]
+  title = "[Studied a kind of beam extension phenomenon shown in the images taken by inserted cameras of cell phones](https://sites.google.com/site/zexiundergraduate/research/optics)"
+  company = "@ Nanjing University"
+  company_url = ""
+  location = ""
+  date_start = "2016-01-01"
+  date_end = ""
+  description = """"""
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "[Experimentally measured pyhsical parameters of interaction between **alkyne** and surfaces of **gold base** to analyse their interaction modes](https://sites.google.com/site/zexiundergraduate/research/physicalchem)"
+  company = "@ Nanjing University"
   company_url = ""
-  location = "California"
+  location = "Prof. Yi Cao"
   date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  date_end = "2016-01-02"
+  description = """"""
 
 +++

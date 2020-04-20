@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zexi Xing
+title: Zexi Xing | 邢泽曦
 
 # Username (this should match the folder name)
 authors:
@@ -29,10 +29,10 @@ education:
   courses:
   - course: PhD student
     institution: The University of Hong Kong
-    year: current
+    year: 2018 - today
   - course: Research Scholar
     institution: Auburn University
-    year: 2019-2020
+    year: 2019 - 2020
   - course: BSc in Astronomy
     institution: Nanjing University
     year: 2018
@@ -61,12 +61,12 @@ social:
 - icon: 500px
   icon_pack: fab
   link: https://500px.com/zexixing0604
-- icon: weibo
-  icon_pack: fab
-  link: https://www.weibo.com/zexixing
-- icon: blog
-  icon_pack: fas
-  link: https://zexixing.github.io/blog/
+#- icon: weibo
+#  icon_pack: fab
+#  link: https://www.weibo.com/zexixing
+#- icon: blog
+#  icon_pack: fas
+#  link: https://zexixing.github.io/blog/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -83,6 +83,6 @@ user_groups:
 - Visitors
 ---
 
-Zexi Xing is a Ph.D. student in the department of physics at the University of Hong Kong. I have a general interest in physics, especially astrophysics, and currently focus on Ultraviolet and X-ray observations of comets and asteroids. Abundance, activities and history of the small bodies are intriguing for me. The Neil Gehrels Swift Observatory is my great friend. In 2018 I got my B.Sc. in astronomy from Nanjing University, where many plane trees and cats live pretty happily. 
+I am a Ph.D. student in the department of physics at the [University of Hong Kong](https://en.wikipedia.org/wiki/University_of_Hong_Kong). I have a general interest in physics, especially astrophysics, and currently focus on Ultraviolet and X-ray [observations](https://en.wikipedia.org/wiki/Observational_astronomy) of [comets](https://en.wikipedia.org/wiki/Comet) and [asteroids](https://en.wikipedia.org/wiki/Asteroid). Abundance, activities and history of the small bodies are intriguing for me. The [Neil Gehrels Swift Observatory](https://en.wikipedia.org/wiki/Neil_Gehrels_Swift_Observatory) is my great friend. In 2018 I got my B.Sc. in astronomy from [Nanjing University](https://en.wikipedia.org/wiki/Nanjing_University), where many plane trees and cats live pretty happily.
 
-In addition to research, I am a great fan of nature and street photography, I love running outdoors with music, I love taking planes, and I really love dogs
+In addition to research, I have extremely broad interests. I enjoy [nature and street photography](https://500px.com/zexixing0604), rope skipping and getting outdoors. I am a great fan of [G.E.M.](http://www.geteverybodymoving.com)'s music, [1 Million](https://www.youtube.com/channel/UCw8ZhLPdQ0u_Y-TLKd61hGA)'s dance and [MoMo&Hosea](https://www.instagram.com/xiaomoyuahou/)'s pictures. I love dogs, Apple's products, and soy milk. **The big world fascinates me**.
