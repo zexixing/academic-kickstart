@@ -28,7 +28,7 @@ education:
   - course: PhD student
     institution: The University of Hong Kong
     year: 2018 - today
-  - course: Research Scholar
+  - course: '"Swift Coordinator"'
     institution: Auburn University
     year: 2019 - 2020
   - course: B.Sc. in Astronomy
