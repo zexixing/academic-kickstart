@@ -52,7 +52,7 @@ social:
 #  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=4dI-4XYAAAAJ&hl=en
+  link: https://scholar.google.com/citations?user=4dI-4XYAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/zexixing
@@ -80,6 +80,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am a Ph.D. student in the department of physics at the [University of Hong Kong](https://en.wikipedia.org/wiki/University_of_Hong_Kong). I have a general interest in physics, especially astrophysics, and currently focus on Ultraviolet and X-ray [observations](https://en.wikipedia.org/wiki/Observational_astronomy) of [comets](https://en.wikipedia.org/wiki/Comet) and [asteroids](https://en.wikipedia.org/wiki/Asteroid). Abundance, activities and history of the small bodies are intriguing for me. Space observatories, especially the [Neil Gehrels Swift Observatory](https://en.wikipedia.org/wiki/Neil_Gehrels_Swift_Observatory), are my great friends. In 2018 I got my B.Sc. in astronomy from [Nanjing University](https://en.wikipedia.org/wiki/Nanjing_University), where many plane trees and cats live pretty happily.
+I am a Ph.D. student in the department of physics at the [University of Hong Kong](https://en.wikipedia.org/wiki/University_of_Hong_Kong). My home is at Bazhou, Hebei province in Mainland China. I have a general interest in physics, especially astrophysics, and currently focus on Ultraviolet and X-ray [observations](https://en.wikipedia.org/wiki/Observational_astronomy) of [comets](https://en.wikipedia.org/wiki/Comet) and [asteroids](https://en.wikipedia.org/wiki/Asteroid). Abundance, activities and history of the small bodies are intriguing for me. Space observatories, especially the [Neil Gehrels Swift Observatory](https://en.wikipedia.org/wiki/Neil_Gehrels_Swift_Observatory), are my great friends. In 2018 I got my B.Sc. in astronomy from [Nanjing University](https://en.wikipedia.org/wiki/Nanjing_University), where many plane trees and cats live pretty happily.
 
-In addition to research, I have extremely broad interests. I enjoy [nature and street photography](https://500px.com/zexixing0604), rope skipping and getting outdoors. I am a great fan of [G.E.M.](http://www.geteverybodymoving.com)'s music, [1 Million](https://www.youtube.com/channel/UCw8ZhLPdQ0u_Y-TLKd61hGA)'s dance and [MoMo&Hosea](https://www.instagram.com/xiaomoyuahou/)'s pictures. I love dogs, electronic products, and soy milk. **The big world fascinates me**.
+In addition to research, I have extremely broad interests. I enjoy [nature and street photography](https://500px.com/zexixing0604), rope skipping and getting outdoors. I am a great fan of [G.E.M.](http://www.geteverybodymoving.com)'s music, [1 Million](https://www.youtube.com/channel/UCw8ZhLPdQ0u_Y-TLKd61hGA)'s dance and [MoMo&Hosea](https://www.instagram.com/xiaomoyuahou/)'s pictures. I love dogs, soy milk, and electronic products. I love Beijing. **The big world fascinates me**.
