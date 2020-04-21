@@ -31,7 +31,7 @@
   title = "LinkedIn"
   icon_pack = "fab"
   icon = "linkedin-in"
-  enable = true
+  enable = false
 
 [[buttons]]
   id = "whatsapp"
@@ -43,7 +43,7 @@
 
 [[buttons]]
   id = "weibo"
-  url = "https://service.weibo.com/share/share.php?url={url}&title={title}"
+  url = "http://service.weibo.com/share/share.php?url={url}&title={title}"
   title = "Weibo"
   icon_pack = "fab"
   icon = "weibo"
