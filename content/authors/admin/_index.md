@@ -21,7 +21,7 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- <font color="#A2A2A2">My Chinese name is </font>邢泽曦<font color="#A2A2A2">, where </font>'邢'<font color="#A2A2A2"> is my family name; </font>'泽'<font color="#A2A2A2"> is given by my family's genealogy, means *water and grace*; I was born at 6am, thus I was given </font>'曦'<font color="#A2A2A2">, which means *the Sun in the early morning*. It is not easy to [pronounce](https://drive.google.com/file/d/1a2XFZgaAWryUwNd7oKdu7Oa4PEVczsX8/view?usp=sharing), and welcome to call me </font>Lucy!
+- <font color="#A2A2A2">My Chinese name is </font>邢泽曦<font color="#A2A2A2">, where </font>'邢'<font color="#A2A2A2"> is my family name; </font>'泽'<font color="#A2A2A2"> is given by my family's genealogy, means *water and grace*; I was born at 6am, thus I was given </font>'曦'<font color="#A2A2A2">, which means *the Sun in the early morning*. It is a little hard to [pronounce](https://drive.google.com/file/d/1a2XFZgaAWryUwNd7oKdu7Oa4PEVczsX8/view?usp=sharing), and feel easy to call me </font>Lucy!
 
 education:
   courses:
