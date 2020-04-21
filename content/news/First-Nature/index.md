@@ -1,5 +1,5 @@
 ---
-title: Congrats to my first Nature paper (coauthor ;D)!
+title: Congrats to my first Nature paper (coauthor ;D)! Congrats Dennis!
 summary: \[2020-04-20\] Dennis Bodewits led the team to observe CO signal of 2I/Borisov. We found that 2I has much more abundant CO than all known our own comets in inner solar system. Because CO can evaporate in low temperate, we speculated that 2I formed in an environment which is cold, enriched in carbon (chemically distinct from our own), and has sufficient dynamical interactions to eject 2I. M-type star systems can well fit the requirements.
 
 tags:
