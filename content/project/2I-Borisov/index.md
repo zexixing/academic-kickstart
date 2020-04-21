@@ -15,8 +15,8 @@ image:
   focal_point: Smart
 
 links:
-- icon: file-alt
-  icon_pack: fas
+- icon: ads
+  icon_pack: ai
   name: H$_2$O Paper
   url: https://ui.adsabs.harvard.edu/abs/2020arXiv200104865X
 
@@ -30,8 +30,8 @@ links:
   name: H$_2$O NASA Press
   url: 
 
-- icon: file-alt
-  icon_pack: fas
+- icon: ads
+  icon_pack: ai
   name: CO Paper
   url: https://ui.adsabs.harvard.edu/abs/2020arXiv200408972B
 
@@ -44,6 +44,7 @@ links:
   icon_pack: fas
   name: CO NASA Press
   url: 
+# open-access
 #url_code: ""
 #url_pdf: ""
 #url_slides: ""
