@@ -61,7 +61,7 @@ image:
 #   Otherwise, set `projects: []`.
 #projects: ['2I/Borisov']
 projects:
-- Comets
+- 2I-Borisov
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.

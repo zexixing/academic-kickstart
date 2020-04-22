@@ -3,7 +3,7 @@ title: Congrats to my first Nature paper (coauthor ;D)! Congrats Dennis!
 summary: \[2020-04-20\]
 
 tags:
-- Media-Press
+- Media Press
 - Comet
 - UV
 date: "2020-04-20T12:00:00Z"
@@ -20,6 +20,11 @@ links:
   icon_pack: fas
   name: The Paper Page
   url: "https://zexixing.github.io/publication/hst_borisov/"
+
+- icon: microphone-alt
+  icon_pack: fas
+  name: NASA Media Press
+  url: https://www.nasa.gov/feature/interstellar-comet-borisov-reveals-its-chemistry-and-possible-origins
 
 #url_code: ""
 #url_pdf: ""

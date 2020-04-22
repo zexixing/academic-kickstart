@@ -43,7 +43,7 @@ links:
   url: "https://astronomycommunity.nature.com/channels/1490-behind-the-paper/posts/66210-the-dark-and-cold-origins-of-interstellar-visitor-2i-borisov"
 
 - name: "Nasa Media Press"
-  url: ""
+  url: "https://www.nasa.gov/feature/interstellar-comet-borisov-reveals-its-chemistry-and-possible-origins"
 url_preprint: https://arxiv.org/abs/2004.08972
 url_pdf: 
 url_code: ''
@@ -68,7 +68,7 @@ image:
 #   Otherwise, set `projects: []`.
 #projects: ['2I/Borisov']
 projects:
-- Comets
+- 2I-Borisov
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
