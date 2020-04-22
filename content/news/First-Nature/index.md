@@ -1,23 +1,25 @@
 ---
 title: Congrats to my first Nature paper (coauthor ;D)! Congrats Dennis!
-summary: \[2020-04-20\] Dennis Bodewits led the team to observe CO signal of 2I/Borisov. We found that 2I has much more abundant CO than all known our own comets in inner solar system. Because CO can evaporate in low temperate, we speculated that 2I formed in an environment which is cold, enriched in carbon (chemically distinct from our own), and has sufficient dynamical interactions to eject 2I. M-type star systems can well fit the requirements.
+summary: \[2020-04-20\]
 
 tags:
 - Media-Press
+- Comet
+- UV
 date: "2020-04-20T12:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.nature.com/articles/s41550-020-1095-2"
+external_link:
 
 image:
   caption: Unknown
   focal_point: Smart
 
 links:
-#- icon: file-alt
-#  icon_pack: fas
-#  name: H$_2$O Paper
-#  url: 
+- icon: link
+  icon_pack: fas
+  name: The Paper Page
+  url: "https://zexixing.github.io/publication/hst_borisov/"
 
 #url_code: ""
 #url_pdf: ""
@@ -31,3 +33,4 @@ links:
 #   Otherwise, set `slides = ""`.
 #slides: example
 ---
+Dennis Bodewits led the team to observe CO signal of 2I/Borisov. We found that 2I has much more abundant CO than all known our own comets in inner solar system. Because CO can evaporate in low temperate, we speculated that 2I formed in an environment which is cold, enriched in carbon (chemically distinct from our own), and has sufficient dynamical interactions to eject 2I. M-type star systems can well fit the requirements. This result was published on nature(https://www.nature.com/articles/s41550-020-1095-2). This is my first *Nature* paper (though only a coauthor:P)! 
