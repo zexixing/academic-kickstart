@@ -2,7 +2,7 @@
 title: Interstellar comet 2I/Borisov
 summary: What does the **first** known active **comet from another star** looks like? **2I/Borisov**, the comet, visited us in late 2019, and telescopes around the world observed it ~~to see if it an alien's spacecraft~~ to explore its properties. Our teams successfully used UVOT/Swift to measure its water, and COS/HST to measure its carbon monoxide. The interesting conclusions can be learned from the following buttons. 
 tags:
-- Comet
+- Comets
 - Solar System
 - UV
 date: "2020-03-25T00:00:00Z"

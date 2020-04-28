@@ -2,7 +2,7 @@
 title: Calibration of an X-ray telescope
 summary: Observations are not easy, what an object should be and what it looks like in data are always quite different. There is no perfect technique and telescope, we have to do something to restore truths, which includes telescope calibration. For example, shapes of X-ray spectra can be changed during detection, to calibrate which response and redistribution files need to be calculated by comparing the observed spectra with other telescopes' data. That is what I did for an X-ray telescope.
 tags:
-- Instrument
+- Instruments
 - Solar System
 - X-ray
 date: "2018-12-25T00:00:00Z"

@@ -2,7 +2,7 @@
 title: Solar Wind Charge Exchange (SWCX) of comets
 summary: How can we measure solar wind in high ecliptic latitudes? It is very hard to send a satellite there, and speculation is also difficult because solar wind changes rapidly during propagation. Here come comets! Comets can reach there! The interaction SWCX between comets and solar wind can tell us a lot about solar wind, comets' coma, and even atomic physics. HKU has a great opportunity to launch a satellite to observe SWCX in EUV band. I analysed SWCX for 5 comets in X-ray band and predicted EUV spectra for the satellite design.
 tags:
-- Comet
+- Comets
 - Solar System
 - X-ray
 date: "2018-06-30T00:00:00Z"

@@ -24,7 +24,7 @@ all_day: true
 publishDate: "2020-04-14T00:00:00Z"
 
 authors: [Kumar Venkataramani, admin, Emanuele Bonamente, Dennis Bodewits]
-tags: [Comet, UV, ATEL]
+tags: [Comets, UV, ATEL]
 
 # Is this a featured talk? (true/false)
 featured: false

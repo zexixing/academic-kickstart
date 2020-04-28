@@ -5,11 +5,11 @@ authors:
 - Dennis Bodewits
 - John W. Noonan
 - Michele T. Bannister
-date: "2020-04-20T00:00:00Z"
-#doi: "10.1038/s41550-020-1095-2"
+date: "2020-04-27T00:00:00Z"
+doi: "10.3847/2041-8213/ab86be"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2020-04-20T00:00:00Z"
+publishDate: "2020-04-27T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -28,7 +28,7 @@ abstract: We observed the interstellar comet 2I/Borisov using the Neil Gehrels-S
 summary: We measure 2I/Borisov's water and dust with UVOT/Swift, and compared the results with solar system comets.
 
 tags:
-- Comet
+- Comets
 - UV
 featured: false
 
@@ -36,7 +36,7 @@ links:
 #- name: "Behind the Paper"
 #  url: "https://astronomycommunity.nature.com/channels/1490-behind-the-paper/posts/66210-the-dark-and-cold-origins-of-interstellar-visitor-2i-borisov"
 - name: "Nasa Media Press"
-  url: ""
+  url: "https://www.nasa.gov/feature/goddard/2020/nasa-s-swift-mission-tallied-water-from-interstellar-comet-borisov"
 url_preprint: https://arxiv.org/abs/2001.04865
 url_pdf: 
 url_code: ''
@@ -45,7 +45,7 @@ url_poster: 'Xing_zzx0030.pdf'
 url_project: 'project/2I-Borisov'
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'https://www.youtube.com/watch?v=BtmYIzJuSI4'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -69,3 +69,4 @@ projects:
 #   Otherwise, set `slides: ""`.
 #slides: example
 ---
+{{< youtube BtmYIzJuSI4 >}}

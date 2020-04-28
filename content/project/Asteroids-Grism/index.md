@@ -2,7 +2,7 @@
 title: UV spectra of asteroids
 summary: Because of atmosphere's absorption, Ultraviolet (UV) radiation must be observed from space, which is much harder than ground observations. Because of this, we still knows quite little about UV spectrum of asteroids, which are usually classified according to their optical/IR spectra. Very very luckily, Swift uniquely has the UV capability and time to measure UV spectra of ~20 asteroids. **Will their types keep the same in UV? Will there be some new trends? How will the results affect the understanding of the solar system?** We are extracting the spectra, let's look forward to the results!
 tags:
-- Asteroid
+- Asteroids
 - Solar System
 - UV
 date: "2020-04-20T00:00:00Z"

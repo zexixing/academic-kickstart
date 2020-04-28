@@ -27,11 +27,11 @@ subtitle = ""
   
   [[content.filter_button]]
     name = "Comets"
-    tag = "Comet"
+    tag = "Comets"
   
   [[content.filter_button]]
     name = "Asteroids"
-    tag = "Asteroid"
+    tag = "Asteroids"
 
   [[content.filter_button]]
     name = "UV"

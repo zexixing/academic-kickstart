@@ -34,7 +34,7 @@ abstract: Interstellar comets offer direct samples of volatiles from distant pro
 summary: We found 2I/Borisov's CO is much more abundant than all our own comets in inner solar system, that indicates its origin.
 
 tags:
-- Comet
+- Comets
 - UV
 featured: false
 

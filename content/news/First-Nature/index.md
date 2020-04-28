@@ -1,10 +1,10 @@
 ---
-title: Congrats to my first Nature paper (coauthor ;D)! Congrats Dennis!
+title: Congrats to my 1st Nature paper (coauthor ;D)! Congrats Dennis!
 summary: \[2020-04-20\]
 
 tags:
 - Media Press
-- Comet
+- Comets
 - UV
 date: "2020-04-20T12:00:00Z"
 

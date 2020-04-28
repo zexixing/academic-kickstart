@@ -2,7 +2,7 @@
 title: UV observations of comets
 summary: We, comet observers, are hunters. We always keenly chase signs of comets' development, and carefully pick right time, raise (write proposals) our guns (telescopes) to shoot (observe) them. Now I am raising guns for 67P, shooting Y4, and enjoying 46P in the UV band, where they have dense emission lines. The data will tell us their composition, abundance, existence of ice, nuclei's rotation and size, and much more hints of origin and evolvement.
 tags:
-- Comet
+- Comets
 - Solar System
 - UV
 date: "2020-04-20T00:00:00Z"
