@@ -7,7 +7,7 @@ tags:
 date: "2020-04-27T12:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://zexixing.github.io/publication/swift_borisov/
+external_link: https://www.facebook.com/dennis.bodewits/posts/10158164489079800?notif_id=1588033550900455&notif_t=tagged_with_story
 
 #image:
 #  caption: Zexi Xing (邢泽曦)
