@@ -1,6 +1,6 @@
 ---
 title: Jeanette and Scott, thank you very sincerely for your huge effort, responsible carefulness and high efficiency for our Swift-Borisov NASA media press!
-summary: \[2020-04-27\]
+summary:
 
 tags:
 - Thanks

@@ -1,6 +1,6 @@
 ---
 title: Dennis, thank you for all of your encouragement, trust, patience, promotion, kindness, helpful guide and many others in my first paper, also for the whole duration since I planned to visit Auburn! We indeed did an excellent job! Cheers!
-summary: \[2020-04-27\]
+summary:
 
 tags:
 - Thanks
