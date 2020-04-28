@@ -28,7 +28,7 @@ links:
 - icon: microphone-alt
   icon_pack: fas
   name: H$_2$O NASA Press
-  url: 
+  url: https://www.nasa.gov/feature/goddard/2020/nasa-s-swift-mission-tallied-water-from-interstellar-comet-borisov
 
 - icon: ads
   icon_pack: ai
