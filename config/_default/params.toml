@@ -86,11 +86,11 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Leach Science Center", city = "Auburn", region = "AL", postcode = "36830", country = "United States", country_code = "US"}
+address = {street = "Chong Yuet Ming Physics Building", city = "Hong Kong", region = "HK", postcode = "", country = "China", country_code = "CHN"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "32.598783", longitude = "-85.488384"}
+coordinates = {latitude = "22.283497", longitude = "114.139831"}
 
 # Directions for visitors to locate you.
 directions = ""
