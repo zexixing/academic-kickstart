@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Professional Activities"
-subtitle = " talks, observations, telegrams, etc."
+subtitle = " [talks](https://zexixing.github.io/tag/talk/), [telegrams](https://zexixing.github.io/tag/atel/), [outreaches](https://zexixing.github.io/tag/outreach/), etc."
 
 [content]
   # Page type to display. E.g. post, talk, or publication.

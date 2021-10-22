@@ -26,6 +26,8 @@ publishDate: "2021-04-01T00:00:00Z"
 
 #authors: [admin]
 tags: [Asteroids, UV, talk]
+categories: 
+- talk
 
 # Is this a featured talk? (true/false)
 featured: false

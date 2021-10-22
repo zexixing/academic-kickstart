@@ -25,7 +25,7 @@ all_day: false
 publishDate: "2020-04-27T00:00:00Z"
 
 #authors: [NASA]
-tags: [Comets, Asteroids]
+tags: [Comets, Asteroids, outreach]
 
 # Is this a featured talk? (true/false)
 featured: false
