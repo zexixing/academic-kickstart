@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 70  # Order that this section will appear.
 
 title = "Gallery"
-subtitle = "I am a shutterbug, welcome to browse my pictures in [500px](https://500px.com/zexixing0604) :D"
+subtitle = "Here are some selected pictures taken by me. Welcome to browse more at [500px](https://500px.com/zexixing0604) :D"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.
