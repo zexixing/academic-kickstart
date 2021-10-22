@@ -1,6 +1,8 @@
 ---
 title: UV observations of comets
-summary: We, comet observers, are hunters. We always keenly chase signs of comets' development, and carefully pick right time, raise (write proposals) our guns (telescopes) to shoot (observe) them. Now I am raising guns for 67P, shooting Y4, and enjoying 46P in the UV band, where they have dense emission lines. The data will tell us their composition, abundance, existence of ice, nuclei's rotation and size, and much more hints of origin and evolvement.
+summary: 
+
+#We, comet observers, are hunters. We always keenly chase signs of comets' development, and carefully pick right time, raise (write proposals) our guns (telescopes) to shoot (observe) them. Now I am raising guns for 67P, shooting Y4, and enjoying 46P in the UV band, where they have dense emission lines. The data will tell us their composition, abundance, existence of ice, nuclei's rotation and size, and much more hints of origin and evolvement.
 tags:
 - Comets
 - Solar System
@@ -14,11 +16,21 @@ image:
   caption: Zexi Xing (邢泽曦)
   focal_point: Smart
 
-#links:
+links:
 #- icon: file-alt
 #  icon_pack: fas
 #  name: H$_2$O Paper
 #  url: 
+
+- icon: file-alt
+  icon_pack: fas
+  name: 2I/Borisov H2O
+  url: https://zexixing.github.io/publication/swift_borisov/
+
+- icon: file-alt
+  icon_pack: fas
+  name: 2I/Borisov CO
+  url: https://zexixing.github.io/publication/hst_borisov/
 
 #url_code: ""
 #url_pdf: ""

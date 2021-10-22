@@ -1,7 +1,8 @@
 ---
 title: First Estimate of Water Production Rates of Comet C/2019 Y4 (ATLAS) from SWIFT/UVOT observations
 event: ATEL 13634
-event_url: http://www.astronomerstelegram.org/?read=13634
+#event_url: http://www.astronomerstelegram.org/?read=13634
+external_link: http://www.astronomerstelegram.org/?read=13634
 
 location: ATEL
 #address:
@@ -34,11 +35,11 @@ image:
   caption: 'Image credit: **Zexi Xing**'
   focal_point: Right
 
-links:
-- icon: laptop
-  icon_pack: fas
-  name: ATEL
-  url: http://www.astronomerstelegram.org/?read=13634
+#links:
+#- icon: laptop
+#  icon_pack: fas
+#  name: ATEL
+#  url: http://www.astronomerstelegram.org/?read=13634
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -56,8 +57,8 @@ url_video: ""
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects:
-- Comets
+#projects:
+#- Comets
 
 # Enable math on this page?
 math: true

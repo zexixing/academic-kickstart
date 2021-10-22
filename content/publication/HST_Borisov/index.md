@@ -28,7 +28,7 @@ publication: "*Nature Astronomy*"
 #, 1*(1)"
 publication_short: "Nat. Astro."
 
-abstract: Interstellar comets offer direct samples of volatiles from distant protoplanetary disks. 2I/Borisov is the first notably active interstellar comet discovered in our solar system1. Comets are condensed samples of the gas, ice, and dust that were in a star’s protoplanetary disk during the formation of its planets and inform our understanding on how chemical compositions and abundances vary with distance from the central star. Their orbital migration moves volatiles2, organic material, and prebiotic chemicals in their host system3. In our solar system, hundreds of comets have been observed remotely, and a few have been studied up close by space missions4. However, knowledge of extrasolar comets has been limited to what could be gleaned from distant, unresolved observations of cometary regions around other stars, with only one detection of carbon monoxide5. Here we report that the coma of 2I/Borisov contains significantly more CO than H2O gas, with abundances of at least 173%, more than three times higher than previously measured for any comet in the inner (<2.5 au) solar system4. Our ultraviolet observations of 2I/Borisov provide the first glimpse into the ice content and chemical composition of the protoplanetary disk of another star that is substantially different from our own. 
+abstract: Interstellar comets offer direct samples of volatiles from distant protoplanetary disks. 2I/Borisov is the first notably active interstellar comet discovered in our solar system[1]. Comets are condensed samples of the gas, ice, and dust that were in a star’s protoplanetary disk during the formation of its planets and inform our understanding on how chemical compositions and abundances vary with distance from the central star. Their orbital migration moves volatiles[2], organic material, and prebiotic chemicals in their host system[3]. In our solar system, hundreds of comets have been observed remotely, and a few have been studied up close by space missions[4]. However, knowledge of extrasolar comets has been limited to what could be gleaned from distant, unresolved observations of cometary regions around other stars, with only one detection of carbon monoxide[5]. Here we report that the coma of 2I/Borisov contains significantly more CO than H2O gas, with abundances of at least 173%, more than three times higher than previously measured for any comet in the inner (<2.5 au) solar system[4]. Our ultraviolet observations of 2I/Borisov provide the first glimpse into the ice content and chemical composition of the protoplanetary disk of another star that is substantially different from our own. 
 
 # Summary. An optional shortened abstract.
 summary: We found 2I/Borisov's CO is much more abundant than all our own comets in inner solar system, that indicates its origin.
@@ -49,7 +49,7 @@ url_pdf:
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: 'project/2I-Borisov'
+#url_project: 'project/2I-Borisov'
 url_slides: ''
 url_source: ''
 url_video: ''
@@ -67,8 +67,8 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 #projects: ['2I/Borisov']
-projects:
-- 2I-Borisov
+#projects:
+#- 2I-Borisov
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.

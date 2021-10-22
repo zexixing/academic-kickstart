@@ -11,7 +11,10 @@ subtitle = ""
 [content]
   # Page type to display. E.g. project.
   page_type = "news"
-  
+
+  # Choose how much pages you would like to display (0 = all pages)
+  count = 3
+
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
   # To show all items, set `tag` to "*".
@@ -42,6 +45,7 @@ subtitle = ""
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows = true
+
 
 [design.background]
   # Apply a background color, gradient, or image.

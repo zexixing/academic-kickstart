@@ -14,6 +14,19 @@
   {{ $summary = $item.Summary }}
 {{ end }}
 
+{{/* Initialise */}}
+{{ $items_type := .Params.content.page_type | default "post" }}
+{{ $items_count := .Params.content.count }}
+{{ if eq $items_count 0 }}
+  {{ $items_count = 65535 }}
+{{ else }}
+  {{ $items_count = $items_count | default 5 }}
+{{ end }}
+
+{{/* Query */}}
+{{ $query := where site.RegularPages "Type" $items_type }}
+{{ $archive_page := site.GetPage "Section" $items_type }}
+
 {{ $resource := ($item.Resources.ByType "image").GetMatch "*featured*" }}
 {{ $js_tag_classes := delimit (apply (apply $item.Params.tags "replace" "." " " "-") "printf" "js-id-%s" ".") " " }}
 

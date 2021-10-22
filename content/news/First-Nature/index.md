@@ -9,7 +9,7 @@ tags:
 date: "2020-04-20T12:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link:
+external_link: "https://zexixing.github.io/publication/hst_borisov/"
 
 image:
   caption: Unknown

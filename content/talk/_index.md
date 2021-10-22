@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Talks
+title: Professional Activities
 
 # View.
 #   1 = List
