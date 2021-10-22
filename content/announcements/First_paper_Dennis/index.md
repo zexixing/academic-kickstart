@@ -4,8 +4,8 @@ summary: Dennis, thank you for all of your encouragement, trust, patience, promo
 
 #tags:
 #- Thanks
-categories:
-- Thanks
+#categories:
+#- Thanks
 date: "2020-04-27T12:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

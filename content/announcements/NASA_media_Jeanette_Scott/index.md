@@ -4,8 +4,8 @@ summary: Jeanette and Scott, thank you very sincerely for your huge effort, resp
 
 #tags:
 #- Thanks
-categories:
-- Thanks
+#categories:
+#- Thanks
 date: "2020-04-27T12:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
