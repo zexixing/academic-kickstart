@@ -105,16 +105,16 @@
 # Pages widget
 
 - id: more_pages
-  translation: See all
+  translation: See more
 
 - id: more_posts
-  translation: See all posts
+  translation: See more
 
 - id: more_talks
-  translation: See all talks
+  translation: See more
 
 - id: more_publications
-  translation: See all publications
+  translation: See more
 
 # Contact widget
 
