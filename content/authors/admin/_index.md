@@ -21,7 +21,7 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- <font color="#A2A2A2">My Chinese name is </font>邢泽曦<font color="#A2A2A2">, where </font>'邢'<font color="#A2A2A2"> is my family name; </font>'泽'<font color="#A2A2A2"> is my [generation name](https://en.wikipedia.org/wiki/Generation_name), means *water and grace*; I was born at 6am, thus I was given </font>'曦'<font color="#A2A2A2">, which means *the Sun in the early morning*. It is a little hard to [pronounce](https://drive.google.com/file/d/1a2XFZgaAWryUwNd7oKdu7Oa4PEVczsX8/view?usp=sharing), and feel easy to call me </font>Lucy!
+- <font color="#A2A2A2">My Chinese name is </font>邢泽曦<font color="#A2A2A2"> (Xing Ze-Xi), where </font>'邢'<font color="#A2A2A2"> (Xing) is my family name; </font>'泽'<font color="#A2A2A2"> (Ze) is my [generation name](https://en.wikipedia.org/wiki/Generation_name), means *water and grace*; I was born at 6am, thus I was given </font>'曦'<font color="#A2A2A2"> (Xi), which means *the Sun in the early morning*. It is a little hard to [pronounce](https://drive.google.com/file/d/1a2XFZgaAWryUwNd7oKdu7Oa4PEVczsX8/view?usp=sharing), and feel easy to call me </font>Lucy!
 
 education:
   courses:
@@ -80,6 +80,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am a Ph.D. student in the department of physics at the [University of Hong Kong](https://en.wikipedia.org/wiki/University_of_Hong_Kong). My home is in Bazhou city, Hebei province in Mainland China. I have a general interest in physics, especially astrophysics, and currently focus on Ultraviolet and X-ray observations of comets and asteroids. Abundance, activities and history of the small bodies are intriguing for me. Space observatories, especially the [Neil Gehrels Swift Observatory](https://en.wikipedia.org/wiki/Neil_Gehrels_Swift_Observatory), are my great friends. In 2018 I got my B.Sc. in astronomy from [Nanjing University](https://en.wikipedia.org/wiki/Nanjing_University), where many plane trees and cats live pretty happily.
+I am a Ph.D. student in the department of physics at the [University of Hong Kong](https://en.wikipedia.org/wiki/University_of_Hong_Kong). My home is in Bazhou city, Hebei province in Mainland China. I have a general interest in physics, especially astrophysics, and currently focus on Ultraviolet and X-ray observations of comets and asteroids. Abundance, activities and history of the small bodies are intriguing for me. Space observatories, especially the [Neil Gehrels Swift Observatory](https://en.wikipedia.org/wiki/Neil_Gehrels_Swift_Observatory), are my great friends. In 2018 I got my B.Sc. in astronomy from [Nanjing University](https://en.wikipedia.org/wiki/Nanjing_University), where many plane trees and cats live happily.
 
 In addition to research, I have extremely broad interests. I enjoy collecting from nature, [photography](https://500px.com/zexixing0604), and getting outdoors. I love dogs, watermelon, and high-tech products. I love physics lurking behind everyday. **The big world fascinates me**.

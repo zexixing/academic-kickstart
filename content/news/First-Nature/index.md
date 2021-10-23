@@ -1,5 +1,5 @@
 ---
-title: Congrats to my 1st Nature paper (coauthor ;D)! Congrats Dennis!
+title: Congrats to my 1st Nature Astro. paper (coauthor ;D)! Congrats the team!
 summary: \[2020-04-20\]
 
 tags:

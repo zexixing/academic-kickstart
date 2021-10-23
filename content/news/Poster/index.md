@@ -1,5 +1,5 @@
 ---
-title: I won the COSAM graduate poster award for the Auburn research symposium
+title: I won the COSAM graduate poster award at Auburn research symposium
 summary: \[2020-05-09\]
 tags:
 #- Demo
