@@ -1,5 +1,5 @@
 ---
-title: Talk - DPS2021 - 101.05D Ultraviolet spectral reflectance of asteroids
+title: 'Talk - DPS2021 - [101.05D] Ultraviolet spectral reflectance of asteroids'
 event: Talk
 #event_url: 
 external_link: https://aas.org/meetings/dps53
