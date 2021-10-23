@@ -39,14 +39,21 @@ tags:
 featured: false
 
 links:
-- name: "Behind the Paper"
+- icon: ads
+  icon_pack: ai
+  name: "ads"
+  url: "https://ui.adsabs.harvard.edu/abs/2020NatAs...4..867B"
+  
+- icon: microphone-alt
+  icon_pack: fas
+  name: "Behind the Paper"
   url: "https://astronomycommunity.nature.com/channels/1490-behind-the-paper/posts/66210-the-dark-and-cold-origins-of-interstellar-visitor-2i-borisov"
 
-- name: "Nasa Media Press"
+- icon: microphone-alt
+  icon_pack: fas
+  name: "Nasa Media Press"
   url: "https://www.nasa.gov/feature/interstellar-comet-borisov-reveals-its-chemistry-and-possible-origins"
-
-- name: "ads"
-  url: "https://ui.adsabs.harvard.edu/abs/2020NatAs...4..867B"
+  
 #url_preprint: https://arxiv.org/abs/2004.08972
 url_pdf: 
 url_code: ''

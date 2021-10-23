@@ -35,19 +35,34 @@ featured: false
 links:
 #- name: "Behind the Paper"
 #  url: "https://astronomycommunity.nature.com/channels/1490-behind-the-paper/posts/66210-the-dark-and-cold-origins-of-interstellar-visitor-2i-borisov"
-- name: "Nasa Media Press"
-  url: "https://www.nasa.gov/feature/goddard/2020/nasa-s-swift-mission-tallied-water-from-interstellar-comet-borisov"
-- name: "ads"
+- icon: ads
+  icon_pack: ai
+  name: "ads"
   url: "https://ui.adsabs.harvard.edu/abs/2020ApJ...893L..48X"
+  
+- icon: microphone-alt
+  icon_pack: fas
+  name: "Nasa Media Press"
+  url: "https://www.nasa.gov/feature/goddard/2020/nasa-s-swift-mission-tallied-water-from-interstellar-comet-borisov"
+
+- icon: sticky-note
+  icon_pack: fas
+  name: "poster"
+  url: 'Xing_zzx0030.pdf'
+
+- icon: youtube
+  icon_pack: fab
+  name: "video"
+  url: 'https://www.youtube.com/watch?v=BtmYIzJuSI4'
 #url_preprint: https://arxiv.org/abs/2001.04865
 url_pdf: 
 url_code: ''
 url_dataset: ''
-url_poster: 'Xing_zzx0030.pdf'
+#url_poster: ''
 #url_project: 'project/2I-Borisov'
 url_slides: ''
 url_source: 
-url_video: 'https://www.youtube.com/watch?v=BtmYIzJuSI4'
+#url_video: 'https://www.youtube.com/watch?v=BtmYIzJuSI4'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
