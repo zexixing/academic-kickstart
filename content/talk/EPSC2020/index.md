@@ -1,11 +1,11 @@
 ---
-title: 'Talk - EPSC2020 - [993] Activities and origins of interstellar comet 2I/Borisov'
+title: 'Talk - EPSC2020 - [993, media interest] Activities and origins of interstellar comet 2I/Borisov'
 event: Talk
 #event_url: https://meetingorganizer.copernicus.org/EPSC2020/EPSC2020-993.html
 external_link: https://vimeo.com/457746770
 #https://meetingorganizer.copernicus.org/EPSC2020/EPSC2020-993.html
 
-location: EPSC2020 (Online)
+location: Online, contributed talk
 #address:
 #  street: 450 Serra Mall
 #  city: Stanford

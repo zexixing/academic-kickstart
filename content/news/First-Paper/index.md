@@ -3,6 +3,7 @@ title: Congrats to my 1st first-author paper and 1st NASA media press!
 summary: \[2020-04-27\]
 
 tags:
+- Astronomy
 - Media Press
 - Comets
 - UV

@@ -29,8 +29,16 @@ subtitle = ""
     tag = "*"
   
   [[content.filter_button]]
+    name = "Astronomy"
+    tag = "Astronomy"
+
+  [[content.filter_button]]
     name = "Media Press"
     tag = "Media-Press"
+
+  [[content.filter_button]]
+    name = "Daily Life"
+    tag = "Daily-Life"
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

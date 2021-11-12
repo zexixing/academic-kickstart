@@ -5,7 +5,7 @@ event: Talk
 external_link: https://aas.org/meetings/dps52
 #https://my.aas.org/services/DPS52/Scientific_Program/DPS52/Program.aspx?hkey=e9604a53-3cb6-4460-af0b-55267263f59c
 
-location: DPS2020 (Online)
+location: Online, contributed talk
 #address:
 #  street: 450 Serra Mall
 #  city: Stanford

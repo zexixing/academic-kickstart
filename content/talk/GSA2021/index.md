@@ -4,7 +4,8 @@ event: Talk
 #event_url: 
 external_link: https://www.geosociety.org/GSA/Events/Section_Meetings/GSA/Sections/se/2021mtg/home.aspx
 
-location: GSA 2021 Southeastern Online Section Meeting
+location: Online, contributed talk
+#GSA 2021 Southeastern Section Meeting
 #address:
 #  street: 450 Serra Mall
 #  city: Stanford

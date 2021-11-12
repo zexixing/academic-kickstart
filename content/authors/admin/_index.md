@@ -28,7 +28,7 @@ education:
   - course: PhD student
     institution: The University of Hong Kong
     year: 2018 - today
-  - course: '"Swift Coordinator"'
+  - course: Visiting student
     institution: Auburn University
     year: 2019 - 2020
   - course: B.Sc. in Astronomy
@@ -80,6 +80,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am a Ph.D. student in the department of physics at the [University of Hong Kong](https://en.wikipedia.org/wiki/University_of_Hong_Kong). My home is in Bazhou city, Hebei province in Mainland China. I have a general interest in physics, especially astrophysics, and currently focus on Ultraviolet and X-ray observations of comets and asteroids. Abundance, activities and history of the small bodies are intriguing for me. Space observatories, especially the [Neil Gehrels Swift Observatory](https://en.wikipedia.org/wiki/Neil_Gehrels_Swift_Observatory), are my great friends. In 2018 I got my B.Sc. in astronomy from [Nanjing University](https://en.wikipedia.org/wiki/Nanjing_University), where many plane trees and cats live happily.
+I am a Ph.D. student in the department of physics at the [University of Hong Kong](https://en.wikipedia.org/wiki/University_of_Hong_Kong). My home is in Bazhou city, Hebei province in Mainland China. I have a general interest in nature, especially astronomy, and currently focus my research on Ultraviolet and X-ray observations of comets and asteroids. Explorations of small bodies' activities and history are always challenging but intriguing. Space observatories, especially the [Neil Gehrels Swift Observatory](https://en.wikipedia.org/wiki/Neil_Gehrels_Swift_Observatory), are my great friends. In 2018 I got my B.Sc. in astronomy from [Nanjing University](https://en.wikipedia.org/wiki/Nanjing_University), where many plane trees and cats live happily.
 
-In addition to research, I have extremely broad interests. I enjoy collecting from nature, [photography](https://500px.com/zexixing0604), and getting outdoors. I love dogs, watermelon, and high-tech products. I love physics lurking behind everyday. **The big world fascinates me**.
+In addition to research, I have extremely broad interests. I enjoy [collecting from nature](#others), [photography](https://500px.com/zexixing0604), and getting outdoors. I love dogs, watermelon, and high-tech products. I love physics lurking behind everyday. **The big world fascinates me**.

@@ -10,7 +10,7 @@ subtitle = ""
 
 [content]
   # Page type to display. E.g. project.
-  page_type = "announcements"
+  page_type = "thanks"
   
   # Filter toolbar (optional).
   # Add or remove as many filters (`[[content.filter_button]]` instances) as you like.
@@ -91,3 +91,4 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+I am keeping a <u>[list]({{< ref "../thanks/index.md" >}})</u> of the kindness I received in daily life, and also thank you very much to be interested in my work and browse my website.

@@ -5,7 +5,7 @@
 
 [[main]]
   name = "Hi!"
-  url = "#hero"
+  url = "#about"
   weight = 10
 
 [[main]]
@@ -29,13 +29,13 @@
   weight = 50
 
 [[main]]
-  name = "Gallery"
-  url = "#gallery"
+  name = "Others"
+  url = "#others"
   weight = 60
 
 [[main]]
   name = "Thanks"
-  url = "#announcements"
+  url = "#thanks"
   weight = 70
 
 [[main]]
