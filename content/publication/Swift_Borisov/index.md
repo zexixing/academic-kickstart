@@ -7,6 +7,7 @@ authors:
 - Michele T. Bannister
 date: "2020-04-27T00:00:00Z"
 doi: "10.3847/2041-8213/ab86be"
+external_link: https://ui.adsabs.harvard.edu/abs/2020ApJ...893L..48X
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-04-27T00:00:00Z"
