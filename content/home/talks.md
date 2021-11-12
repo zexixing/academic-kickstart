@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Professional Activities"
-subtitle = " [talks](https://zexixing.github.io/tag/talk/), [telegrams](https://zexixing.github.io/tag/atel/), [outreaches](https://zexixing.github.io/tag/outreach/), etc."
+subtitle = '[talks](https://zexixing.github.io/tag/talk/), [telegrams](https://zexixing.github.io/tag/atel/), [outreaches](https://zexixing.github.io/tag/outreach/), etc.'
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -68,3 +68,4 @@ subtitle = " [talks](https://zexixing.github.io/tag/talk/), [telegrams](https://
  # CSS class.
  css_class = ""
 +++
+<font color="#A2A2A2">[update time: 2021-Oct-22]</font>

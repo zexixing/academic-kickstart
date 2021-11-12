@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 20  # Order that this section will appear.
 
 title = "Latest research"
-subtitle = ""
+subtitle = '<font color="#A2A2A2">[update time: 2021-Oct-22]</font>'
 
 [content]
   # Page type to display. E.g. project.

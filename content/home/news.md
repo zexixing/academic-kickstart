@@ -6,7 +6,7 @@ active = true  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
 title = "News & Press"
-subtitle = ""
+subtitle = '<font color="#A2A2A2">[update time: 2020-May-09]</font>'
 
 [content]
   # Page type to display. E.g. project.

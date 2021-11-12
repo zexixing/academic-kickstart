@@ -25,7 +25,7 @@ view = 0
 
 - Number of identified plant species: 247 (According to my checklist in Xingse App).
 
-- I also take pictures to "collet" creeping caterillar, twinkling stars, passing strangers, and more touching moments. Here are some pictures taken by me. Welcome to browse more at [500px](https://500px.com/zexixing0604) :D
+- I also take pictures to "collet" creeping caterpillar, twinkling stars, passing strangers, and more touching moments. Here are some pictures taken by me. Welcome to browse more at [500px](https://500px.com/zexixing0604) :D
 
 [update time: 2021-Nov-12]</font>
 

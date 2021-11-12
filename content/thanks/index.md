@@ -52,6 +52,8 @@ I really hope I can take these kindness as examples, and convey the kindness to 
 </font>
 
 ---
+<font face="rose" color="#A2A2A2"> [update time: 2021-Nov-12]</font>
+
 <font face="rose" color="#A2A2A2"> *I left some key information out for privacy protection when necessary.</font>
 
 <font face="rose" color="#A2A2A2">[2021-Nov-12] I did not update this page, and even the whole website from 2020-Apr-27 to 2021-Nov-12 because of the inconvenience of website deployment. I reorganized the frame these days and have made it more simple, and restarted to regularly update this page today.</font>
