@@ -17,7 +17,7 @@ image:
 links:
 - icon: file-alt
   icon_pack: fas
-  name: Undergrad. Thesis (Chinese)
+  name: Undergrad. Thesis
   url: ''
 
 - icon: file-alt
