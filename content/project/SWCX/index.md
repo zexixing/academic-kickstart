@@ -18,7 +18,13 @@ links:
 - icon: file-alt
   icon_pack: fas
   name: Undergrad. Thesis (Chinese)
-  url: thesis.pdf
+  url: ''
+
+- icon: file-alt
+  icon_pack: fas
+  name: 46p
+  url: 'https://iopscience.iop.org/article/10.3847/PSJ/ac2aac'
+#thesis.pdf
 
 #url_code: ""
 #url_pdf: ""

@@ -17,7 +17,7 @@ view = 0
 +++
 <font color="#A2A2A2">
 
-- In free time, I love collecting seeds, ecdyses, feathers, fallen flowers and leaves, and other natural products. Once I find something interesting, I would timely take it home, "dry-identify-label-save" it, and then register it in my [catalog (in Chinese, to be updated)](https://drive.google.com/file/d/1SGPsps8mkirtBDv8GJOwLPQV1bCysRX9/view?usp=sharing). When I was lucky enough to find an insect just dead, I would make an insect specimen.
+- In free time, I love collecting seeds, ecdyses, feathers, fallen flowers and leaves, and other natural products. Once I find something interesting, I would timely take it home, "identify-dry-label-save" it, and then register it in my [index (in Chinese, to be updated)](https://zexixing.notion.site/Collection-Index-cb047e7ad84343989cb83bacdae8c900). When I was lucky enough to find an insect just dead, I would make an insect specimen.
 
 - My total points of cloud collection: 125' (according to *[The Cloud Collector's Handbook](https://www.google.com/search?client=safari&rls=en&q=The+Cloud+Collector%27s+Handbook&ie=UTF-8&oe=UTF-8)*). Need to collect more!
 

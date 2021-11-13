@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 30  # Order that this section will appear.
 
 title = "Recent Publications"
-subtitle = 'Welcome to browse my [Google Scholar](https://scholar.google.com/citations?user=4dI-4XYAAAAJ&hl=en) profile, my [ORCID](https://orcid.org/0000-0003-2399-5613) profile, or my [ADS](https://ui.adsabs.harvard.edu/public-libraries/AbI4GMggRhuIulaVFY3GSg) Library.'
+subtitle = 'Welcome to browse my [Google Scholar](https://scholar.google.com/citations?user=4dI-4XYAAAAJ&hl=en) profile, my [ORCID](https://orcid.org/0000-0003-2399-5613) profile, and/or my [ADS](https://ui.adsabs.harvard.edu/public-libraries/AbI4GMggRhuIulaVFY3GSg) Library.'
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
