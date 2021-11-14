@@ -21,7 +21,7 @@ view = 0
 
 - My total points of cloud collection: 125' (according to *[The Cloud Collector's Handbook](https://www.google.com/search?client=safari&rls=en&q=The+Cloud+Collector%27s+Handbook&ie=UTF-8&oe=UTF-8)*). Need to collect more!
 
-- Number of observed wild bird species: 37 (To be updated). 12 in my [ebird](https://ebird.org/home?logout=true) checklist.
+- Number of observed wild bird species: [60 (To be updated)](https://zexixing.notion.site/98cd402d74574aacbeb9aff1525f4147?v=5c751c255bc2484bac432ec0d592b876).
 
 - Number of observed plant species: 247 (According to my checklist in Xingse App).
 
