@@ -90,5 +90,7 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
+
+# {{< ref "../thanks/index.md" >}}
 +++
-I am keeping a <u>[list]({{< ref "../thanks/index.md" >}})</u> of the kindness I received in daily life, and also thank you very much to be interested in my work and browse my website.
+I am keeping a <u>[list](https://zexixing.notion.site/Thanks-7ddd2a532b404537a2622f4e6201dcaf)</u> of the kindness I received in daily life, and also thank you very much to be interested in my work and browse my website.
