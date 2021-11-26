@@ -59,9 +59,9 @@ social:
 - icon: 500px
   icon_pack: fab
   link: https://500px.com/zexixing0604
-- icon: weibo
-  icon_pack: fab
-  link: https://www.weibo.com/zexixing
+#- icon: weibo
+#  icon_pack: fab
+#  link: https://www.weibo.com/zexixing
 #- icon: blog
 #  icon_pack: fas
 #  link: https://zexixing.github.io/blog/
