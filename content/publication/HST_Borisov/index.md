@@ -17,6 +17,10 @@ doi: "10.1038/s41550-020-1095-2"
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-04-20T00:00:00Z"
 external_link: https://ui.adsabs.harvard.edu/abs/2020NatAs...4..867B
+_build:
+  render: false
+  list: true
+  publishResources: true
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -37,6 +41,7 @@ summary: "[2020-04-20] We found 2I/Borisov's CO is much more abundant than all o
 tags:
 - Comets
 - UV
+- selected-publication
 featured: false
 
 links:

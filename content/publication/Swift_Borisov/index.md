@@ -8,6 +8,10 @@ authors:
 date: "2020-04-27T00:00:00Z"
 doi: "10.3847/2041-8213/ab86be"
 external_link: https://ui.adsabs.harvard.edu/abs/2020ApJ...893L..48X
+_build:
+  render: false
+  list: true
+  publishResources: true
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-04-27T00:00:00Z"
@@ -31,6 +35,7 @@ summary: "[2020-04-27] We made first unambiguous detection of OH lines for 2I/Bo
 tags:
 - Comets
 - UV
+- selected-publication
 featured: false
 
 links:
@@ -45,11 +50,6 @@ links:
   icon_pack: fas
   name: "Nasa Media Press"
   url: "https://www.nasa.gov/feature/goddard/2020/nasa-s-swift-mission-tallied-water-from-interstellar-comet-borisov"
-
-- icon: sticky-note
-  icon_pack: fas
-  name: "poster"
-  url: 'Xing_zzx0030.pdf'
 
 - icon: youtube
   icon_pack: fab
@@ -87,4 +87,3 @@ image:
 #   Otherwise, set `slides: ""`.
 #slides: example
 ---
-{{< youtube BtmYIzJuSI4 >}}

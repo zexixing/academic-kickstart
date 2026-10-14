@@ -15,7 +15,7 @@ subtitle = 'Welcome to browse my [Google Scholar](https://scholar.google.com/cit
   page_type = "publication"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 5
+  count = 7
   
   # Choose how many pages you would like to offset by
   offset = 0
@@ -25,7 +25,7 @@ subtitle = 'Welcome to browse my [Google Scholar](https://scholar.google.com/cit
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = ""
+    tag = "selected-publication"
     category = ""
     publication_type = ""
     author = ""
@@ -67,8 +67,3 @@ subtitle = 'Welcome to browse my [Google Scholar](https://scholar.google.com/cit
  # CSS class.
  css_class = ""
 +++
-<font color="#A2A2A2">[update time: 2021-Nov-12]</font>
-
-{{% alert note %}}
-Quickly discover relevant content by [filtering publications]({{< ref "/publication/_index.md" >}}).
-{{% /alert %}}

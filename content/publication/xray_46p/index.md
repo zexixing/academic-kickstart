@@ -9,8 +9,12 @@ authors:
 - Dennis Bodewits
 
 date: "2021-11-10T00:00:00Z"
-doi: "https://doi.org/10.3847/PSJ/ac2aac"
+doi: "10.3847/PSJ/ac2aac"
 external_link: https://doi.org/10.3847/PSJ/ac2aac
+_build:
+  render: false
+  list: true
+  publishResources: true
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-11-10T00:00:00Z"
@@ -34,6 +38,7 @@ summary: "[2021-11-10]"
 tags:
 - Comets
 - X-ray
+- selected-publication
 featured: false
 
 #links:

@@ -2,7 +2,7 @@
 # A Projects section created with the Portfolio widget.
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
+active = false  # Activate this widget? true/false
 weight = 60  # Order that this section will appear.
 
 title = "News & Press"
@@ -82,4 +82,3 @@ subtitle = '<font color="#A2A2A2">[update time: 2020-May-09]</font>'
  # CSS class.
  css_class = ""
 +++
-

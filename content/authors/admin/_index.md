@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD student @ astrophysics
+role: Postdoctoral Fellow @ astronomy
 
 # Organizations/Affiliations
 organizations:
-- name: The University of Hong Kong
+- name: Auburn University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -25,18 +25,18 @@ interests:
 
 education:
   courses:
-  - course: PhD student
+  - course: Ph.D. in Astronomy
     institution: The University of Hong Kong
-    year: 2018 - today
-  - course: Visiting student
-    institution: Auburn University
-    year: 2019 - 2020
+    year: 2018 - 2023
   - course: B.Sc. in Astronomy
     institution: Nanjing University
     year: 2014 - 2018
-  - course: REU student
-    institution: University of Wisconsin - Madison
-    year: 2017
+
+work:
+  positions:
+  - position: Postdoctoral Fellow
+    institution: Auburn University
+    year: Apr. 2024 - Present
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -53,12 +53,15 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=4dI-4XYAAAAJ
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-2399-5613
+- icon: ads
+  icon_pack: ai
+  link: https://ui.adsabs.harvard.edu/public-libraries/AbI4GMggRhuIulaVFY3GSg
 - icon: github
   icon_pack: fab
   link: https://github.com/zexixing
-- icon: 500px
-  icon_pack: fab
-  link: https://500px.com/zexixing0604
 #- icon: weibo
 #  icon_pack: fab
 #  link: https://www.weibo.com/zexixing
@@ -80,6 +83,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am a Ph.D. student in the department of physics at the [University of Hong Kong](https://en.wikipedia.org/wiki/University_of_Hong_Kong). My home is in Bazhou city, Hebei province in Mainland China. I have a general interest in nature, especially astronomy, and currently focus my research on Ultraviolet and X-ray observations of comets and asteroids. Explorations of small bodies' activities and history are always challenging but intriguing. Space observatories, especially the [Neil Gehrels Swift Observatory](https://en.wikipedia.org/wiki/Neil_Gehrels_Swift_Observatory), are my great friends. In 2018 I got my B.Sc. in astronomy from [Nanjing University](https://en.wikipedia.org/wiki/Nanjing_University), where many plane trees and cats live happily.
+I am a postdoctoral fellow in the Department of Physics at Auburn University. My research uses ultraviolet observations to study comets, asteroids, and interstellar objects, with a focus on cometary water activity and volatile evolution. I work often with space observatories, especially the Neil Gehrels Swift Observatory. I received my Ph.D. in Astronomy from the University of Hong Kong in 2023 and my B.Sc. in Astronomy from Nanjing University in 2018. I am honored to have minor planet (34712) Zexixing named after me. My home is in Bazhou city, Hebei province in Mainland China.
 
-In addition to research, I have extremely broad interests. I enjoy [collecting from nature](#others), [photography](https://500px.com/zexixing0604), and anime. I love sports, though I am not good at any one. I am learning electric guitar, and my guitar's name is Fri (/fraɪ/). Finally, I love physics lurking behind everyday. **The big world fascinates me**.
+In addition to research, I have extremely broad interests. I enjoy collecting from nature, photography, and sketching. I also love visiting natural history museums. I am learning electric guitar, and my guitar's name is Fri (/fraɪ/). The big world fascinates me.

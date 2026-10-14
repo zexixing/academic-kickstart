@@ -1,7 +1,8 @@
 ---
-title: UV observations of comets
-summary: To be updated.
-#We, comet observers, are hunters. We always keenly chase signs of comets' development, and carefully pick right time, raise (write proposals) our guns (telescopes) to shoot (observe) them. Now I am raising guns for 67P, shooting Y4, and enjoying 46P in the UV band, where they have dense emission lines. The data will tell us their composition, abundance, existence of ice, nuclei's rotation and size, and much more hints of origin and evolvement.
+title: Cometary water and volatile evolution
+weight: 1
+summary: >-
+  Water is my central tracer for understanding cometary activity. I use near-ultraviolet OH emission, mainly with Swift/UVOT, to measure water production and follow how cometary ices are exposed, depleted, and redistributed through the coma. These measurements connect individual observations to broader questions about erosion, activity regimes, and the volatile histories of small bodies.
 tags:
 - Comets
 - Solar System
@@ -14,22 +15,6 @@ external_link: ""
 image:
   caption: Zexi Xing (邢泽曦)
   focal_point: Smart
-
-links:
-#- icon: file-alt
-#  icon_pack: fas
-#  name: H$_2$O Paper
-#  url: 
-
-- icon: file-alt
-  icon_pack: fas
-  name: 2I/Borisov H2O
-  url: https://zexixing.github.io/publication/swift_borisov/
-
-- icon: file-alt
-  icon_pack: fas
-  name: 2I/Borisov CO
-  url: https://zexixing.github.io/publication/hst_borisov/
 
 #url_code: ""
 #url_pdf: ""

@@ -9,6 +9,7 @@
   {{ $link = $item.Params.external_link }}
   {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
 {{ end }}
+{{ $no_link := $item.Params.no_link | default false }}
 {{ if eq $item.Type "talk" }}
   {{ $show_authors_only = true }}
   {{ $show_buttons = true }}
@@ -34,7 +35,11 @@
   <div class="media-body">
 
     <h3 class="article-title mb-0 mt-0">
+      {{ if $no_link }}
+      <span>{{ $item.Title }}</span>
+      {{ else }}
       <a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
+      {{ end }}
     </h3>
 
     {{ with $summary }}
@@ -77,9 +82,13 @@
     {{ $resource := ($item.Resources.ByType "image").GetMatch "*featured*" }}
     {{ with $resource }}
     {{ $image := .Resize "150x" }}
+    {{ if $no_link }}
+      <img src="{{ $image.RelPermalink }}" alt="">
+    {{ else }}
     <a href="{{$link}}" {{ $target | safeHTMLAttr }}>
       <img src="{{ $image.RelPermalink }}" alt="">
     </a>
+    {{ end }}
     {{end}}
   </div>
 </div>

@@ -89,6 +89,21 @@
 
       {{ with $person.education }}
       <div class="col-md-7">
+        {{ with $person.work }}
+        <h3>Work Experience</h3>
+        <ul class="ul-edu fa-ul">
+          {{ range .positions }}
+          <li>
+            <i class="fa-li fas fa-briefcase"></i>
+            <div class="description">
+              <p class="course">{{ .position }}{{ with .year }}, {{ . }}{{ end }}</p>
+              <p class="institution">{{ .institution }}</p>
+            </div>
+          </li>
+          {{ end }}
+        </ul>
+        {{ end }}
+
         <h3>{{ i18n "education" | markdownify }}</h3>
         <ul class="ul-edu fa-ul">
           {{ range .courses }}

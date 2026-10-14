@@ -8,14 +8,14 @@ active = true  # Activate this widget? true/false
 weight = 40  # Order that this section will appear.
 
 title = "Professional Activities"
-subtitle = '[talks](https://zexixing.github.io/tag/talk/), [telegrams](https://zexixing.github.io/tag/atel/), [outreaches](https://zexixing.github.io/tag/outreach/), etc.'
+subtitle = 'Selected talks and outreach.'
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
   page_type = "talk"
   
   # Choose how much pages you would like to display (0 = all pages)
-  count = 5
+  count = 10
   
   # Choose how many pages you would like to offset by
   offset = 0
@@ -25,7 +25,7 @@ subtitle = '[talks](https://zexixing.github.io/tag/talk/), [telegrams](https://z
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = ""
+    tag = "selected-activity"
     category = ""
     publication_type = ""
     author = ""
@@ -68,4 +68,3 @@ subtitle = '[talks](https://zexixing.github.io/tag/talk/), [telegrams](https://z
  # CSS class.
  css_class = ""
 +++
-<font color="#A2A2A2">[update time: 2021-Oct-22]</font>

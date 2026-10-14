@@ -11,6 +11,7 @@
   {{ $link = $item.Params.external_link }}
   {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
 {{ end }}
+{{ $no_link := $item.Params.no_link | default false }}
 {{ if eq $item.Type "post" }}
   {{ $icon = "fa-newspaper" }}
 {{ else if eq $item.Type "talk" }}
@@ -27,12 +28,20 @@
 
 <div class="view-list-item">
   <i class="{{$icon_pack}} {{$icon}} pub-icon" aria-hidden="true"></i>
+  {{ if $no_link }}
+  <span>{{ $item.Title }}</span>
+  {{ else }}
   <a href="{{$link}}" {{ $target | safeHTMLAttr }}>{{ $item.Title }}</a>
+  {{ end }}
 
   {{ if eq $item.Type "talk" }}
   <div class="article-metadata">
     <span>
-      {{ partial "functions/get_event_dates" $item }}
+      {{ if eq $item.Params.date_precision "month" }}
+        {{ $item.Date.Format "Jan 2006" }}
+      {{ else }}
+        {{ partial "functions/get_event_dates" $item }}
+      {{ end }}
     </span>
     {{ with $item.Params.location }}
     <span class="middot-divider"></span>

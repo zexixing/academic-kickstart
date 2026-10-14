@@ -24,24 +24,14 @@
   weight = 40
 
 [[main]]
-  name = "News"
-  url = "#news"
-  weight = 50
-
-[[main]]
-  name = "Others"
+  name = "Personal"
   url = "#others"
-  weight = 60
-
-[[main]]
-  name = "Thanks"
-  url = "#thanks"
-  weight = 70
+  weight = 50
 
 [[main]]
   name = "Contact"
   url = "#contact"
-  weight = 80
+  weight = 60
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

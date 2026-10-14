@@ -44,7 +44,7 @@ local_business_type = ""
 org_name = ""
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = ""
+description = "Postdoctoral Fellow at Auburn University studying comets, asteroids, interstellar objects, and ultraviolet small-body observations."
 
 ############################
 ## Site Features
@@ -86,11 +86,11 @@ phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "RM525, CYM Physics Building, HKU, Pokfulam Road", city = "Hong Kong", region = "CHN", postcode = "", country = "China", country_code = "CHN"}
+address = {street = "Leach Science Center, Suite 2158<br>380 Duncan Drive<br>Physics Department<br>Auburn University", city = "Auburn", region = "AL", postcode = "36849", country = "", country_code = "US"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "22.28325", longitude = "114.13985"}
+coordinates = {latitude = "32.59856", longitude = "-85.48831"}
 
 # Directions for visitors to locate you.
 directions = ""
@@ -104,14 +104,7 @@ directions = ""
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
-contact_links = [
-  {icon = "envelope", icon_pack = "fas", name = "zexixing0604@gmail.com", link = "mailto:zexixing0604@gmail.com"},
-  # {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
-  # {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
-  # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
-  # {icon = "comments", icon_pack = "fas", name = "Discuss on Forum", link = "https://discourse.gohugo.io"},
-  # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
-  ]
+contact_links = []
 
 ############################
 ## Social
@@ -134,7 +127,7 @@ date_format = "Jan 2, 2006"
 time_format = "3:04 PM"
 
 # Address format (choose from the [address_formats] list below or add you own to the list).
-address_format = "en-us"
+address_format = "auburn"
 
 ############################
 ## Advanced
@@ -176,6 +169,7 @@ plugins_js  = []
 # Available address formats.
 [address_formats]
   en-us = {order = ['street', 'city', 'region', 'postcode'], delimiters = [', ', ', ', ' ', '']}
+  auburn = {order = ['street', 'city', 'region', 'postcode'], delimiters = ['<br>', ', ', ' ', '']}
   en-gb = {order = ['street', 'city', 'region', 'postcode'], delimiters = [', ', ', ', ', ', '']}
   de = {order = ['street', 'postcode', 'city'], delimiters = ['<br>', ' ', '']}
   fr-fr = {order = ['street', 'postcode', 'city'], delimiters = ['<br>', ' ', '']}
