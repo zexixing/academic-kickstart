@@ -13,7 +13,7 @@ date: "2018-06-30T00:00:00Z"
 external_link: ""
 
 image:
-  caption: Dennis Bodewits
+  caption: Swift/UVOT observations of 3I/ATLAS
   focal_point: Smart
 
 #url_code: ""
