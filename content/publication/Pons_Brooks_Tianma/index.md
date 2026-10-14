@@ -13,7 +13,12 @@ authors:
 - Ruining Zhao
 date: "2025-08-01T00:00:00Z"
 doi: "10.1051/0004-6361/202554867"
-external_link: https://doi.org/10.1051/0004-6361/202554867
+external_link: https://ui.adsabs.harvard.edu/abs/2025A%26A...701A.204L/abstract
+links:
+- name: ADS
+  icon: ads
+  icon_pack: ai
+  url: https://ui.adsabs.harvard.edu/abs/2025A%26A...701A.204L/abstract
 _build:
   render: false
   list: true

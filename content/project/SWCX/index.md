@@ -2,7 +2,7 @@
 title: Interstellar comets
 weight: 2
 summary: >-
-  Interstellar comets are rare tests of how planetary systems store and release ices. My work on 2I/Borisov and 3I/ATLAS uses ultraviolet observations to measure water activity and place those measurements alongside other volatile diagnostics. The goal is to understand how these visitors evolve through different activity regimes as fresh material is exposed.
+  Interstellar comets carry material from other planetary systems into our own. My work on 2I/Borisov and 3I/ATLAS uses ultraviolet observations to measure how much water they release and how that activity changes during their passage around the Sun. Comparing water with other volatile species helps distinguish changes driven by solar heating from differences in composition. Through these rare visitors, I explore which aspects of cometary activity are shared across planetary systems and which reflect a different history.
 tags:
 - Comets
 - Solar System

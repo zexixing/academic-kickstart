@@ -7,7 +7,12 @@ authors:
 - Jeffrey P. Morgenthaler
 date: "2023-02-01T00:00:00Z"
 doi: "10.3390/universe9020078"
-external_link: https://doi.org/10.3390/universe9020078
+external_link: https://ui.adsabs.harvard.edu/abs/2023Univ....9...78B/abstract
+links:
+- name: ADS
+  icon: ads
+  icon_pack: ai
+  url: https://ui.adsabs.harvard.edu/abs/2023Univ....9...78B/abstract
 _build:
   render: false
   list: true

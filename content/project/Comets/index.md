@@ -2,7 +2,7 @@
 title: Cometary water and volatile evolution
 weight: 1
 summary: >-
-  Water is my central tracer for understanding cometary activity. I use near-ultraviolet OH emission, mainly with Swift/UVOT, to measure water production and follow how cometary ices are exposed, depleted, and redistributed through the coma. These measurements connect individual observations to broader questions about erosion, activity regimes, and the volatile histories of small bodies.
+  How do comets release their ices, and what changes as they approach the Sun? I use ultraviolet observations with Swift/UVOT to trace water through OH emission, produced when sunlight breaks apart water molecules. By following water production over time and comparing it with other gases and dust, I study what drives cometary activity, how outbursts alter the coma, and how erosion exposes fresh material. These observations help connect the behavior we see today with the volatile history of a comet.
 tags:
 - Comets
 - Solar System

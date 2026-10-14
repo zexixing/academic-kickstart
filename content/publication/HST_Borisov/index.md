@@ -47,13 +47,13 @@ featured: false
 links:
 - icon: ads
   icon_pack: ai
-  name: "ads"
+  name: "ADS"
   url: "https://ui.adsabs.harvard.edu/abs/2020NatAs...4..867B"
   
 - icon: microphone-alt
   icon_pack: fas
   name: "Behind the Paper"
-  url: "https://astronomycommunity.nature.com/channels/1490-behind-the-paper/posts/66210-the-dark-and-cold-origins-of-interstellar-visitor-2i-borisov"
+  url: "https://communities.springernature.com/posts/the-dark-and-cold-origins-of-interstellar-visitor-2i-borisov"
 
 - icon: microphone-alt
   icon_pack: fas

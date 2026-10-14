@@ -43,7 +43,7 @@ links:
 #  url: "https://astronomycommunity.nature.com/channels/1490-behind-the-paper/posts/66210-the-dark-and-cold-origins-of-interstellar-visitor-2i-borisov"
 - icon: ads
   icon_pack: ai
-  name: "ads"
+  name: "ADS"
   url: "https://ui.adsabs.harvard.edu/abs/2020ApJ...893L..48X"
   
 - icon: microphone-alt

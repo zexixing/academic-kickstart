@@ -1,8 +1,10 @@
 ---
 title: UV small-body observing toolchain
 weight: 3
-summary: >-
-  Many small-body observations fall outside standard point-source pipelines: targets move, comae are extended, backgrounds are structured, and observing geometry matters. I develop Swift/UVOT observing and reduction methods for these cases, including field-star removal, event-mode motion correction, grism extraction for small bodies, and reusable software such as [uvotimgpy](https://github.com/zexixing/uvotimgpy) and [**UVOTPY-for-smallbody**](https://github.com/zexixing/UVOTPY-for-smallbody).
+summary: |-
+  Comets and asteroids move across the sky, and a comet's diffuse coma does not behave like a point source. I develop observing strategies, calibration corrections, and reduction methods that adapt Swift/UVOT to these targets, from separating faint cometary emission from background stars to extracting ultraviolet spectra blurred by motion. The aim is to turn challenging observations into reliable measurements of gas activity and asteroid reflectance.
+
+  I share these methods through [uvotimgpy](https://github.com/zexixing/uvotimgpy), a Python toolkit for small-body imaging and analysis, and [**UVOTPY-for-smallbody**](https://github.com/zexixing/UVOTPY-for-smallbody), extensions to UVOTPY for extracting grism spectra of moving targets and extended comae.
 tags:
 - Asteroids
 - Solar System

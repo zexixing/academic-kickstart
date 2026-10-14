@@ -10,7 +10,12 @@ authors:
 
 date: "2021-11-10T00:00:00Z"
 doi: "10.3847/PSJ/ac2aac"
-external_link: https://doi.org/10.3847/PSJ/ac2aac
+external_link: https://ui.adsabs.harvard.edu/abs/2021PSJ.....2..224B/abstract
+links:
+- name: ADS
+  icon: ads
+  icon_pack: ai
+  url: https://ui.adsabs.harvard.edu/abs/2021PSJ.....2..224B/abstract
 _build:
   render: false
   list: true
