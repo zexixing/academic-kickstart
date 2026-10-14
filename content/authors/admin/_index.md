@@ -85,4 +85,4 @@ user_groups:
 ---
 I am a postdoctoral fellow in the Department of Physics at Auburn University. My research uses ultraviolet observations to study comets, asteroids, and interstellar objects, with a focus on cometary water activity and volatile evolution. I work often with space observatories, especially the Neil Gehrels Swift Observatory. I received my Ph.D. in Astronomy from the University of Hong Kong in 2023 and my B.Sc. in Astronomy from Nanjing University in 2018. I am honored to have minor planet (34712) Zexixing named after me. My home is in Bazhou city, Hebei province in Mainland China.
 
-In addition to research, I have extremely broad interests. I enjoy collecting from nature, photography, and sketching. I also love visiting natural history museums. I am learning electric guitar, and my guitar's name is Fri (/fraɪ/). The big world fascinates me.
+In addition to research, I have broad interests. I enjoy collecting from nature, photography, and sketching. The big world fascinates me.
