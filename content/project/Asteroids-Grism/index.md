@@ -1,5 +1,5 @@
 ---
-title: UV small-body observing toolchain
+title: UV small-body observing toolkits
 weight: 3
 summary: |-
   Comets and asteroids move across the sky, and a comet's diffuse coma does not behave like a point source. I develop observing strategies, calibration corrections, and reduction methods that adapt Swift/UVOT to these targets, from separating faint cometary emission from background stars to extracting ultraviolet spectra blurred by motion. The aim is to turn challenging observations into reliable measurements of gas activity and asteroid reflectance.
